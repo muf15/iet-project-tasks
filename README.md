@@ -11,3 +11,4 @@
 | Task | Resource URL |
 |-------------|---------------|
 | Swagger UI | https://www.youtube.com/watch?v=4sR77vaEhy8 |
+| DB Design | https://www.youtube.com/watch?v=5RpUmDEsn1k |
